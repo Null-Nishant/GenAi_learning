@@ -1,0 +1,12 @@
+{
+  "name": "genai",
+  "version": "1.0.0",
+  "description": "learning GenAi",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "lec1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
